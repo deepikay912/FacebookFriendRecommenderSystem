@@ -3,9 +3,13 @@
 CMPE256 Individual project 
 
 Dataset - Facebook
+
 Technologies - Python
+
 Machine - Google collab
+
 Algorithm - collaboratiev filtering
+
 Methods - Recommend by mutual friends & recommend by influence
 
 
