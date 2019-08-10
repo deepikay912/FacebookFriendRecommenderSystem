@@ -8,6 +8,7 @@ Machine - Google collab
 Algorithm - collaboratiev filtering
 Methods - Recommend by mutual friends & recommend by influence
 
+
 Algorithm steps :
 
 1. Two nodes are chosen at random.
