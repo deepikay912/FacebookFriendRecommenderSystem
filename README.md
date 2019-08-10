@@ -20,5 +20,5 @@ Algorithm steps :
 
 The conclusion is that recommendation by influence is efficient and accurate.
 
-More technical details are in docs folder files.
+More technical details are in docs folder files. 
 
